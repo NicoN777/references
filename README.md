@@ -1,5 +1,5 @@
 # references
-Document (some step by step guides) that I have created while as a student or out of curiosity.
+Document (some step by step guides) that I have created while as a student or thought that someone might find helpful.
 
 Install and create an Oracle XE11g database on a Windows machine.
 Create a user
